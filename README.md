@@ -1,16 +1,3 @@
-- 👋 Hi, I’m Shuvo Majumder
-- JS Full Stack web developer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
-<!---
-ShuvoSW/ShuvoSW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center">Hi 👋, I'm Shuvo Majumder</h1>
 <h3 align="center">Full-Stack Software Developer & Computer Science Student</h3>
 
@@ -21,7 +8,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://github.com/ShuvoSW">
     <img src="https://img.shields.io/badge/GitHub-ShuvoSW-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/shuvo-majumder" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -103,5 +90,5 @@ I am a passionate **Full-Stack Web Developer** and Computer Science & Engineerin
 If you are looking for a dedicated Full-Stack Developer or interested in collaborating on exciting projects, feel free to reach out:
 
 - **Email:** [shuvomajumder3369@gmail.com](mailto:shuvomajumder3369@gmail.com)
-- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/shuvo-majumder)
 - **GitHub Profile:** [github.com/ShuvoSW](https://github.com/ShuvoSW)
