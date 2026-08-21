@@ -23,7 +23,7 @@ I am a passionate **Full-Stack Web Developer** and **Computer Science & Engineer
 - 🔭 **Focus**: Full-Stack Development (MERN Stack & Next.js), Web Performance & Scalable Architecture.
 - 💡 **Interests**: AI-driven web applications, algorithm optimization, and responsive design systems.
 - 🤖 **AI & ML**: Machine Learning, Deep Learning, and Computer Vision implementations.
-- 🎓 **Education**: Computer Science and Engineering (CSE).
+- 🎓 **Education**: Computer Science and Engineering (B.Sc in CSE).
 - 📫 **Contact**: [shuvomajumder3369@gmail.com](mailto:shuvomajumder3369@gmail.com)
 
 ---
