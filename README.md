@@ -83,6 +83,15 @@ I am a passionate **Full-Stack Web Developer** and Computer Science & Engineerin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuvoSW&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ShuvoSW&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuvoSW&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" width="48%" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShuvoSW&theme=tokyonight&hide_border=true" alt="Streak Stats" width="96%" />
+  </p>
+
 ---
 
 ### 📫 Let's Connect!
