@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuvo Majumder</h1>
-<h3 align="center">Full-Stack Software Developer & Computer Science Student</h3>
+<h3 align="center">Full-Stack Software Developer & Machine Learning Engineer</h3>
 
 <p align="center">
   <a href="mailto:shuvomajumder3369@gmail.com">
@@ -17,10 +17,12 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Full-Stack Web Developer** and Computer Science & Engineering student focused on building robust, scalable, and user-centric web applications. 
+<!--I am a passionate **Full-Stack Web Developer** and Computer Science & Engineering student focused on building robust, scalable, and user-centric web applications. !-->
+I am a passionate **Full-Stack Web Developer** and **Computer Science & Engineering student** dedicated to building robust, scalable, and intelligent software systems by merging modern web architecture with artificial intelligence.
 
 - 🔭 **Focus**: Full-Stack Development (MERN Stack & Next.js), Web Performance & Scalable Architecture.
-- 💡 **Interests**: Machine Learning algorithms, Data Structures & Algorithms, and modern frontend design systems.
+- 💡 **Interests**: AI-driven web applications, algorithm optimization, and responsive design systems.
+- 🤖 **AI & ML**: Machine Learning, Deep Learning, and Computer Vision implementations.
 - 🎓 **Education**: Computer Science and Engineering (CSE).
 - 📫 **Contact**: [shuvomajumder3369@gmail.com](mailto:shuvomajumder3369@gmail.com)
 
