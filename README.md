@@ -135,6 +135,6 @@ I am a passionate **Full-Stack Web Developer** and **Computer Science & Engineer
 If you are looking for a dedicated Full-Stack Developer or interested in collaborating on exciting projects, feel free to reach out:
 
 - **Email:** [shuvomajumder3369@gmail.com](mailto:shuvomajumder3369@gmail.com)
-- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/shuvo-majumder)
+- **LinkedIn:** [linkedin.com/in/shuvo-majumder](https://www.linkedin.com/in/shuvo-majumder)
 - **GitHub Profile:** [github.com/ShuvoSW](https://github.com/ShuvoSW)
 
